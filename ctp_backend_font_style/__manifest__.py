@@ -22,7 +22,7 @@
     'category': 'Tools',
     "license": 'Other proprietary',
     'price': 15.00,
-    'currency': 'US',
+    'currency': 'USD',
     'installable': True,
     'application': True,
     'auto_install': False,
