@@ -24,7 +24,7 @@
     'live_test_url': 'https://www.cybernetics.plus',
     'images': ['static/description/banner.png'],
     'category': 'Tools',
-    "license": 'Other proprietary',
+    'license': 'AGPL-3',
     'price': 15.00,
     'currency': 'USD',
     'installable': True,
